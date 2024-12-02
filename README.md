@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm Rotem  
 
 Welcome to my GitHub profile! I'm a **senior iOS developer** with over **8 years of experience**, specializing in building amazing apps for startups and freelancing. 🚀  
 I also have a passion for **business automation** and **custom software solutions**, and I'm currently working on some exciting projects in these domains.  
@@ -43,8 +43,8 @@ I also have a passion for **business automation** and **custom software solution
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=stars&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nevgauker&show_icons=true&hide=stars&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nevgauker&layout=compact&theme=radical)  
 
 ---
 
