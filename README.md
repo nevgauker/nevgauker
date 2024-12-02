@@ -1,16 +1,16 @@
-# Hi there! 👋 I'm Rotem  
+# Hi there! 👋 I'm Rotem
 
-Welcome to my GitHub profile! I'm a **senior iOS developer** with over **8 years of experience**, specializing in building amazing apps for startups and freelancing. 🚀  
-I also have a passion for **business automation** and **custom software solutions**, and I'm currently working on some exciting projects in these domains.  
+Welcome to my GitHub profile! While I bring over **8 years of experience as a senior iOS developer**, my current focus has shifted towards **full-stack development**. I’m passionate about creating seamless, efficient, and innovative solutions for both front-end and back-end challenges. 🚀  
+I also enjoy working on **business automation** and **custom software projects**, blending my technical expertise with practical solutions for startups and businesses.  
 
 ---
 
 ## 🔧 What I Do
 
-- **iOS Development**: Creating sleek, efficient, and user-friendly apps.  
-- **Full-stack Projects**: Building apps with **Next.js**, **TypeScript**, and more.  
-- **Business Automation**: Developing tools to streamline operations for startups and businesses.  
-- **Open Source**: Sharing knowledge and code to contribute to the dev community.  
+- **Full-stack Development**: Crafting end-to-end solutions using **Next.js**, **TypeScript**, and more.  
+- **iOS Development**: Leveraging my extensive experience to build intuitive mobile apps.  
+- **Business Automation**: Developing tools to streamline operations for startups and enterprises.  
+- **Open Source**: Contributing to the dev community by sharing knowledge and resources.  
 
 ---
 
@@ -25,19 +25,30 @@ I also have a passion for **business automation** and **custom software solution
 
 ## 📫 Let's Connect!
 
-- [Portfolio Website](#)  
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Twitter](https://twitter.com/your-profile)  
-- [Facebook Page](https://facebook.com/your-automations-page)  
+- [Portfolio Website](https://rotemnev.com)  
+- [LinkedIn](https://www.linkedin.com/in/rotem-nevgauker-73622037/)    
+- [Facebook Page](https://www.facebook.com/profile.php?id=61565730386403)  
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages**: Swift, TypeScript, JavaScript  
-- **Frameworks & Libraries**: Next.js, React, Express, Prisma  
-- **Databases**: MongoDB, SQLite  
-- **Other Tools**: Tailwind CSS, Google Cloud, Resend  
+### 💻 **Languages**  
+- Swift, TypeScript, JavaScript  
+
+### 🌐 **Frameworks & Libraries**  
+- Next.js, React, Express, Prisma  
+
+### 🗄️ **Databases**  
+- MongoDB, SQLite, PostgreSQL, MySQL, Firebase Realtime Database  
+
+### 🎨 **Design**  
+- Tailwind CSS, CSS3, Bootstrap  
+
+### ☁️ **Tools**  
+- Version Control: Git, GitHub, GitLab  
+- CI/CD: GitHub Actions, Vercel  
+- Cloud Services: Google Cloud, Firebase  
 
 ---
 
