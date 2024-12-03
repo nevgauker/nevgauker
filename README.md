@@ -22,6 +22,11 @@ I also enjoy working on **business automation** and **custom software projects**
 - **Automation Garage**: Simplifying processes with code and no-code solutions.  
 
 ---
+## 📰 Articles I Wrote
+- [Flutter for an IOS Developer](https://medium.com/@rotemnevgauker/how-flutter-feels-to-an-experienced-ios-developer-ec4c456ceb2e)
+- [Clean Architecture in Swift](https://medium.com/@rotemnevgauker/scalability-maintenance-in-ios-8404b49931f7)
+
+---
 
 ## 📫 Let's Connect!
 
@@ -62,7 +67,7 @@ I also enjoy working on **business automation** and **custom software projects**
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-  
+
 ---
 
 ## 📈 GitHub Stats
