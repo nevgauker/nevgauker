@@ -45,6 +45,10 @@ Designed for speed, usability, and scalability.
 ### 📍 **Things**  
 A location-based **e-commerce platform** focused on discovering local products and experiences.
 
+### 📢 **Groupies**
+
+Groups focused **Instance messaging** platform focused on automatons of processes.
+
 ---
 
 ## 📰 Articles I’ve Written
