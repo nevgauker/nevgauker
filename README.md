@@ -95,8 +95,8 @@ Groups focused **Instance messaging** platform focused on automatons of processe
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nevgauker&show_icons=true&hide=stars&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevgauker&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nevgauker&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&cache_seconds=86400" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevgauker&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400" height="160" />
 </p>
 
 ---
