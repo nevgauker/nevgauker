@@ -38,16 +38,40 @@ I enjoy blending **technical depth with product thinking** to deliver clean, mai
 
 ## 🌟 Featured Projects
 
+### 🤖 **Recall**
+AI knowledge assistant — turn any pile of docs into a queryable assistant in under 2 minutes.  
+Built with **TypeScript** and **Next.js** (App Router). Powered by RAG + Chain of Verification.
+
 ### 🌀 **OrbitCRM**  
 A fully customized CRM built with **Next.js**, **TypeScript**, **Tailwind**, and **Prisma**.  
 Designed for speed, usability, and scalability.  
 
+### 🎲 **Board Game Hub**
+Game catalog + session scheduling + venue operations platform.  
+Built with **TypeScript** and **React**. A production-ready, multi-role scheduling system.
+
+### 🎨 **Retro Revive**
+Digital e-commerce platform built with **TypeScript** and **React**.  
+Demonstrates complete commerce workflow and product validation.
+
+### 🔄 **Things 2-hand**
+Community-first buy-and-sell marketplace for second-hand items.  
+Built with **Flutter** and **Node.js**. Validated blueprint for community commerce.
+
 ### 📍 **Things**  
 A location-based **e-commerce platform** focused on discovering local products and experiences.
 
-### 📢 **Groupies**
+### 📱 **ExpertX**
+Experts platform for connecting professionals. Built with **Swift** and **AVFoundation** (iOS).  
+Enabled faster feature iterations and demonstrated iOS expertise.
 
-Groups focused **Instance messaging** platform focused on automatons of processes.
+### ✅ **DueDo**
+Tasks tracking and delegation app built with **Swift** (iOS).  
+Practical blueprint for efficient task management workflows.
+
+### 📢 **Groupies**
+Groups-focused **instance messaging** platform designed for process automation.  
+Demonstrates real-time communication and workflow automation capabilities.
 
 ---
 
@@ -89,6 +113,26 @@ Groups focused **Instance messaging** platform focused on automatons of processe
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### 🤖 **AI & Agents**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat)
+![Pinecone](https://img.shields.io/badge/Pinecone-03A9F4?style=flat&logoColor=white)
+
+---
+
+## 🤖 AI & Agents
+
+I specialize in building intelligent systems powered by modern AI frameworks:
+
+- **RAG Pipelines** — **LangChain** + **Pinecone** with Chain of Verification to prevent hallucinations
+- **Multi-Agent Workflows** — **CrewAI** for orchestrating teams of agents with defined roles and capabilities
+- **Model-Agnostic Architecture** — Built on **LiteLLM** and **LangChain** to seamlessly swap between GPT-4, Claude, Llama, and other models
+- **Enterprise-Grade Deployments** — Azure, AWS, or OpenAI Enterprise APIs with data sovereignty and compliance in mind
+
+Key projects: **Recall** (AI doc QA), **AI Strategy Audits**, **AI MVP Sprints**, and ongoing **Fractional AI CTO** work for startups scaling AI systems.
 
 ---
 
