@@ -1,120 +1,162 @@
 <!-- HERO SECTION -->
-<h1 align="center">Hi there! 👋 I'm Rotem</h1>
+<h1 align="center">Hi, I'm Rotem Nevgauker 👋</h1>
 
 <p align="center">
-  Senior iOS Developer • Full-Stack Developer • Automation Specialist
+  <b>Senior iOS Engineer • Full-Stack Developer • Fractional CTO / Technical Partner for Startups</b>
 </p>
 
 <p align="center">
-  <a href="https://rotemnev.com">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/rotem-nevgauker-73622037/">💼 LinkedIn</a> •
-  <a href="https://www.facebook.com/profile.php?id=61565730386403">📘 Facebook</a>
+  <a href="https://www.rotemnev.com"><img src="https://img.shields.io/badge/Portfolio-rotemnev.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.rotemnev.com/en/case-studies"><img src="https://img.shields.io/badge/Case%20Studies-View-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Case Studies" /></a>
+  <a href="https://www.linkedin.com/in/rotem-nevgauker-73622037/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@rotemnevgauker"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a developer with over **8 years of experience as a senior iOS engineer**, now expanding my expertise into **full-stack development** and **business automation**.
+I'm a **software engineer with 13+ years of experience** building applications and digital products, from mobile apps to full-stack platforms.
 
-I’m passionate about building:
-- ✨ High-quality mobile apps  
-- ⚙️ Automation systems for startups  
-- 🌐 Scalable full-stack applications  
-- 🛠 Custom tools that solve real-world problems  
+My professional background is rooted in **iOS development**, where I've worked extensively with Swift, Objective-C, application architecture, and performance optimization. Over the years, I've expanded into **full-stack development**, working with React, Next.js, TypeScript, Node.js, and databases to design, build, and ship complete products.
 
-I enjoy blending **technical depth with product thinking** to deliver clean, maintainable, and impactful solutions.
+Beyond engineering, I'm passionate about **product development, system architecture, and technical leadership**. I enjoy turning ideas into working products, making practical technical decisions, and helping startups move from concept to MVP and beyond.
+
+I'm open to opportunities as a **Senior iOS Engineer, Full-Stack Engineer, or Technical Lead**, as well as collaborating with startups as a **fractional CTO or technical partner**.
 
 ---
 
-## 🔧 What I Do
+## 🧭 What I Bring
 
-- **Full-Stack Development** — Next.js, TypeScript, React, Prisma  
-- **iOS Development** — Swift, Clean Architecture, performance-driven mobile apps  
-- **Automation & Tooling** — internal tools, workflow automation, business logic systems  
-- **Open Source** — sharing knowledge, writing articles, and contributing code  
+<table>
+  <tr>
+    <th width="33%">📱 iOS</th>
+    <th width="33%">🌐 Full-Stack</th>
+    <th width="33%">🧭 CTO / Tech Leadership</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      • Swift, SwiftUI &amp; UIKit<br/>
+      • Objective-C<br/>
+      • AVFoundation &amp; media<br/>
+      • Clean Architecture<br/>
+      • Performance &amp; stability<br/>
+      • App Store delivery
+    </td>
+    <td valign="top">
+      • Next.js &amp; React<br/>
+      • TypeScript &amp; Node.js / Express<br/>
+      • Prisma, PostgreSQL, MongoDB<br/>
+      • Flutter for cross-platform<br/>
+      • Cloud: GCP, AWS, Firebase
+    </td>
+    <td valign="top">
+      • Architecture &amp; tech strategy<br/>
+      • MVP sprints → production<br/>
+      • Hiring &amp; mentoring engineers<br/>
+      • AI systems: RAG, multi-agent, model-agnostic<br/>
+      • AI strategy audits
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🤖 **Recall**
-AI knowledge assistant — turn any pile of docs into a queryable assistant in under 2 minutes.  
-Built with **TypeScript** and **Next.js** (App Router). Powered by RAG + Chain of Verification.
+### 📱 iOS: Client Work
 
-### 🌀 **OrbitCRM**  
-A fully customized CRM built with **Next.js**, **TypeScript**, **Tailwind**, and **Prisma**.  
-Designed for speed, usability, and scalability.  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ExpertX</h3>
+      Experts platform connecting professionals.<br/>
+      <sub><b>Swift • AVFoundation</b></sub><br/><br/>
+      Enabled faster feature iterations.<br/><br/>
+      <a href="https://www.rotemnev.com/en/case-studies/expertx">Case study →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>DueDo</h3>
+      Task tracking &amp; delegation app.<br/>
+      <sub><b>Swift</b></sub><br/><br/>
+      Enabled faster feature iterations.<br/><br/>
+      <a href="https://www.rotemnev.com/en/case-studies/duedo">Case study →</a>
+    </td>
+  </tr>
+</table>
 
-### 🎲 **Board Game Hub**
-Game catalog + session scheduling + venue operations platform.  
-Built with **TypeScript** and **React**. A production-ready, multi-role scheduling system.
+### 🌐 Full-Stack &amp; AI Products
 
-### 🎨 **Retro Revive**
-Digital e-commerce platform built with **TypeScript** and **React**.  
-Demonstrates complete commerce workflow and product validation.
-
-### 🔄 **Things 2-hand**
-Community-first buy-and-sell marketplace for second-hand items.  
-Built with **Flutter** and **Node.js**. Validated blueprint for community commerce.
-
-### 📍 **Things**  
-A location-based **e-commerce platform** focused on discovering local products and experiences.
-
-### 📱 **ExpertX**
-Experts platform for connecting professionals. Built with **Swift** and **AVFoundation** (iOS).  
-Enabled faster feature iterations and demonstrated iOS expertise.
-
-### ✅ **DueDo**
-Tasks tracking and delegation app built with **Swift** (iOS).  
-Practical blueprint for efficient task management workflows.
-
-### 📢 **Groupies**
-Groups-focused **instance messaging** platform designed for process automation.  
-Demonstrates real-time communication and workflow automation capabilities.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Recall</h3>
+      AI knowledge assistant: ask questions of your docs.<br/>
+      <sub><b>TypeScript • Next.js (App Router) • RAG + Chain of Verification</b></sub><br/><br/>
+      Turns a pile of docs into an assistant you can query in under 2 minutes.<br/><br/>
+      <a href="https://www.rotemnev.com/en/case-studies/recall">Case study →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌀 OrbitCRM</h3>
+      Custom CRM built for startup operations.<br/>
+      <sub><b>Next.js • TypeScript • Tailwind • Prisma</b></sub><br/><br/>
+      A practical CRM workflow designed around speed and scale.<br/><br/>
+      <a href="https://www.rotemnev.com/en/case-studies/orbit-crm">Case study →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎲 Board Game Hub</h3>
+      Game catalog, session scheduling &amp; venue operations.<br/>
+      <sub><b>TypeScript • React</b></sub><br/><br/>
+      A production-ready scheduling platform with multiple user roles.<br/><br/>
+      <a href="https://www.rotemnev.com/en/case-studies/board-game-hub">Case study →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔄 Things</h3>
+      Community-first marketplace for buying and selling second-hand items.<br/>
+      <sub><b>Flutter • Node.js</b></sub><br/><br/>
+      Mobile app + backend; a proven template for community commerce.<br/><br/>
+      <a href="https://www.rotemnev.com/en/case-studies/things">Case study →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📰 Articles I’ve Written
+## 📰 Articles
 
-- [Flutter for an iOS Developer](https://medium.com/@rotemnevgauker/how-flutter-feels-to-an-experienced-ios-developer-ec4c456ceb2e)  
-- [Clean Architecture in Swift](https://medium.com/@rotemnevgauker/scalability-maintenance-in-ios-8404b49931f7)
+- [Clean Architecture in Swift: Scalability &amp; Maintenance in iOS](https://medium.com/@rotemnevgauker/scalability-maintenance-in-ios-8404b49931f7)
+- [How Flutter Feels to an Experienced iOS Developer](https://medium.com/@rotemnevgauker/how-flutter-feels-to-an-experienced-ios-developer-ec4c456ceb2e)
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 **Languages**
+**Mobile**<br/>
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-### 🌐 **Frameworks & Libraries**
+**Web &amp; Backend**<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-
-### 🗄️ **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-### 🎨 **Design**
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### ☁️ **Tools & Cloud**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+**Data &amp; Cloud**<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
-### 🤖 **AI & Agents**
+**AI &amp; Agents**<br/>
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
@@ -123,31 +165,22 @@ Demonstrates real-time communication and workflow automation capabilities.
 
 ---
 
-## 🤖 AI & Agents
-
-I specialize in building intelligent systems powered by modern AI frameworks:
-
-- **RAG Pipelines** — **LangChain** + **Pinecone** with Chain of Verification to prevent hallucinations
-- **Multi-Agent Workflows** — **CrewAI** for orchestrating teams of agents with defined roles and capabilities
-- **Model-Agnostic Architecture** — Built on **LiteLLM** and **LangChain** to seamlessly swap between GPT-4, Claude, Llama, and other models
-- **Enterprise-Grade Deployments** — Azure, AWS, or OpenAI Enterprise APIs with data sovereignty and compliance in mind
-
-Key projects: **Recall** (AI doc QA), **AI Strategy Audits**, **AI MVP Sprints**, and ongoing **Fractional AI CTO** work for startups scaling AI systems.
-
----
-
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics for nevgauker" />
+<details>
+  <summary>Show GitHub metrics</summary>
+  <p align="center">
+    <img src="./github-metrics.svg" alt="GitHub metrics for nevgauker" />
+  </p>
+</details>
+
+---
+
+## 🤝 Let's Work Together
+
+Are you a startup looking for a **CTO / technical partner**, or a team that needs a **senior iOS or full-stack engineer**? I'd love to hear what you're building.
+
+<p>
+  <a href="https://www.rotemnev.com">🌐 rotemnev.com</a> •
+  <a href="https://www.linkedin.com/in/rotem-nevgauker-73622037/">💼 LinkedIn</a>
 </p>
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to collaborating, discussing projects, or helping with interesting challenges.  
-Feel free to reach out—happy to chat! 🚀
-
----
-
